@@ -1,0 +1,56 @@
+Part 1: 
+Write multiple paragraph describing yourself that includes your hobbies, food you like to eat etc. in
+simple text format. You can use notepad or any text editor save the file as name_assignment1_1.txt.
+
+My name is Shelagh Cully and I currently work as a UX Designer and Graphic Artist. 
+
+My Hobbies:
+	Drawing
+	Gardening
+	Reading
+	Social media
+	Playing with animals
+
+My favorite food:
+	
+	All things potatoes, but specifically hashbrowns 
+	Sweet potatoe sushi 
+	Popcorn 
+	White nectarines 
+	Coffee (dunkin coffee> starbucks)
+	
+Part 2: QUIZ
+A. Please explain web server, web browser, url.
+
+	Web server: a computer connected to the internet that stores the assests of a webpage. Web servers wait for requests from browsers, and sends the information requested.
+	Web browser: displays webpages and their resources. Browsers reach out to web servers to recieve webpage content.
+	URL: stands for Uniform Resource Locator, provides the address of a webpage. Sends an http command to a web server in order to fetch webpage data.
+
+B. What is difference between html and http?
+	
+	HTML is the language used to create webpages on the internet. HTTP formats and transmits information between seb servers and browsers.
+
+C. What is the usage of page structure tags (<html>, <head>, <body>)? Can you work without
+them?
+
+	<html>, signifies you are creating an html document. <head>, contains all of your websites meta data, including style sheet and javascript links. <body> contains all of the viewable webpage content.
+	No, these three tags are necessary in order to build a webpage.
+
+D. What is <title> tag used for?
+	
+	Special html tag that adds the name of your website into the browser bar. Webpage titles are most obvious when you have multiple tabs open from different websites, each tab will display a different word or phrase.
+
+E. Can you identify difference between <div> and <p> tag when styling a page?
+
+	<p> stands for paragraph, where <div> stands for division. <div> is a way to create containers of content in html. They're also useful when you are ready to style your site via css.
+	<p> signify the beginning of a block of plain text.
+
+F. Provide tags for different levels of headings that HTML support?
+
+	Html supports <h1>-<h6> header tags.
+
+G. Joe is a potential Fall 2019 UMD student. He wants to submit his application files to UMD
+admission website. Draw a diagram to illustrate how Joe’s machine communicates with UMD
+website to return UMD admission page. 
+
+	Please attached file titled scully_assignment1_quiz.jpg
